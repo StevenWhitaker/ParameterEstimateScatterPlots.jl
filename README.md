@@ -25,4 +25,4 @@ julia> x = LinRange(0, 10, 1000); xhat = x.^1.1 .+ 0.5 .* randn(size(x));
 julia> scatterestimates(x, xhat, name = "x", units = "cm")
 ```
 
-[Example parameter estimate scatter plot](./images/example.png)
+![Example parameter estimate scatter plot](./images/example.png)
