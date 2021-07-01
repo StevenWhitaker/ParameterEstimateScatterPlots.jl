@@ -1,5 +1,8 @@
 # ParameterEstimateScatterPlots.jl
 
+[![action status](https://github.com/StevenWhitaker/ParameterEstimateScatterPlots.jl/actions/workflows/runtests.yml/badge.svg)](https://github.com/StevenWhitaker/ParameterEstimateScatterPlots.jl/actions)
+[![codecov](https://codecov.io/gh/StevenWhitaker/ParameterEstimateScatterPlots.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/StevenWhitaker/ParameterEstimateScatterPlots.jl)
+
 This Julia package exports `scatterestimates`,
 a simple function that generates a scatter plot
 of estimated parameters vs the ground truth,
